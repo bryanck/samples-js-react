@@ -7,11 +7,11 @@
   "env": {
     "ISSUER": {
       "description": "Issuer URL for your org",
-      "value": "https://{yourDomain}/oauth2/default"
+      "value": "https://trial-3839983.okta.com/oauth2/default"
     },
     "CLIENT_ID": {
       "description": "Client ID for your application",
-      "value": "CLIENT_ID"
+      "value": "0oar6rlf4DdGGt4Zc696"
     },
     "NPM_CONFIG_PRODUCTION": {
       "description": "npm config production",
